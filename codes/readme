@@ -1,0 +1,1 @@
+This folder contains all the simulation and result generation codes in this article, including the original HK model, our modified model, and the code to perform statistics from multiple simulations, codes to draw graphs, calculate Pearson correlation coefficients, etc.
