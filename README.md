@@ -1,2 +1,2 @@
 # LLMs-impact-on-OD
-Quantifying the Impact of Large Language Models on Collective Opinion Dynamics.
+Modeling the Impact of Large Language Models on Opinion Dynamics: A Simulation-Based Study.
