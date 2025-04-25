@@ -1,0 +1,6 @@
+,NIN_mean_diff,NINL_mean_diff,NIL_mean_diff,all_mean_diff,NIN_converge_times,NINL_converge_times,NIL_converge_times,all_converge_times,NIN_finalSD,NINL_finalSD,NIL_finalSD,all_finalSD,NIN_clusters,NINL_clusters,NIL_clusters,all_clusters
+threshold,ns,ns, ,ns,***,***, ,***,***,***,ns,***,***,***, ,***
+per_NIN,ns,ns, ,ns,ns,***, ,***,***,***,***,*,***,***, ,***
+per_NINL,ns,ns, ,ns,ns,***, ,***,***,***,***,***,***,***, ,***
+per_NIL,ns,ns, ,ns,ns,***, ,***,***,***,***,***,***,***, ,***
+LLM_VALUE,***,***, ,***,ns,ns, ,ns,ns,ns,ns,ns,ns,ns, ,ns
