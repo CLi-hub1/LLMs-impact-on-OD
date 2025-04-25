@@ -1,6 +1,0 @@
-,NIN_mean_diff,NICN_mean_diff,NIC_mean_diff,Ntot_mean_diff,NIN_converge_times,NICN_converge_times,NIC_converge_times,Ntot_converge_times
-threshold,ns,ns, ,ns,***,***, ,***
-per_NIN,ns,ns, ,ns,**,***, ,***
-per_NINC,ns,ns, ,ns,ns,***, ,ns
-per_NIC,ns,ns, ,ns,**,***, ,***
-CHT_VALUE,***,***, ,***,ns,ns, ,ns
